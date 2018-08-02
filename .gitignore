@@ -2,7 +2,9 @@
 logs
 *.log
 npm-debug.log*
-
+csr.pem
+key.pem
+server.crt
 # Runtime data
 pids
 *.pid
